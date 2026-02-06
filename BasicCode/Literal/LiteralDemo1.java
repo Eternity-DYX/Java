@@ -1,4 +1,4 @@
-package com.itheima.literal;
+package com.DYX.literal;
 
 public class LiteralDemo1 {
     static void main(String[] args) {
@@ -17,4 +17,5 @@ public class LiteralDemo1 {
         System.out.println ("公");
     }
 }
+
 
